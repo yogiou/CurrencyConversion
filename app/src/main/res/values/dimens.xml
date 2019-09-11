@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="static_qr_code_business_name_space">7sp</dimen>
+	<dimen name="text_size_level_0">8sp</dimen>
+	<dimen name="text_size_level_1">12sp</dimen>
+	<dimen name="text_size_level_2">14sp</dimen>
+	<dimen name="text_size_level_3">16sp</dimen>
+	<dimen name="text_size_level_4">19sp</dimen>
+	<dimen name="text_size_level_5">20sp</dimen>
+	<dimen name="text_size_level_6">24sp</dimen>
+	<dimen name="text_size_level_7">30sp</dimen>
+	<dimen name="text_size_level_8">36sp</dimen>
+	<dimen name="text_size_level_9">40sp</dimen>
+
+	<dimen name="space_level_1">2dp</dimen>
+	<dimen name="space_level_2">4dp</dimen>
+	<dimen name="space_level_3">8dp</dimen>
+	<dimen name="space_level_4">12dp</dimen>
+	<dimen name="space_level_5">16dp</dimen>
+	<dimen name="space_level_6">24dp</dimen>
+	<dimen name="space_level_7">32dp</dimen>
+	<dimen name="space_level_8">48dp</dimen>
+	<dimen name="space_level_9">64dp</dimen>
+	<dimen name="space_level_10">96dp</dimen>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Conversion</string>
+    <string name="no_internet_error">No internet connection.</string>
+    <string name="general_error">Something went wrong.</string>
+    <string name="amount_hint">Input amount here</string>
+    <string name="amount_place_holder">0.00</string>
+    <string name="currency_value">%1$s %2$s</string>
+</resources>
